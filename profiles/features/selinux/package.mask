@@ -1,0 +1,3 @@
+# Sergei Trofimovich <slyfox@gentoo.org> (24 Jun 2016)
+# requires systemd (masked on selinux)
+app-misc/foo
